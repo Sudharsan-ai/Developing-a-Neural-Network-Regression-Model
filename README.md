@@ -356,6 +356,8 @@ Prediction: 0.15411143004894257
 
 ### Dataset Information
 
+<img width="915" height="332" alt="image" src="https://github.com/user-attachments/assets/4963b0cc-6c8b-4b70-a24d-59f870387e24" />
+
 
 ### OUTPUT
 
@@ -365,7 +367,9 @@ Prediction: 0.15411143004894257
 
 
 ### New Sample Data Prediction
-Include your sample input and output here
+
+<img width="1119" height="144" alt="image" src="https://github.com/user-attachments/assets/4a31b377-7aed-43ab-92f2-7c289e1013d3" />
+
 
 ## RESULT
 Thus, a neural network regression model was successfully developed and trained using PyTorch.

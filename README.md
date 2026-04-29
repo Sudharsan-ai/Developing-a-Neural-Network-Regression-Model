@@ -353,17 +353,16 @@ Prediction: 0.15411143004894257
 
 
 
-```python
-
-```
 
 ### Dataset Information
-Include screenshot of the generated data
+
 
 ### OUTPUT
 
 ### Training Loss Vs Iteration Plot
-Include your plot here
+![png](ex1_13_0.png)
+
+
 
 ### New Sample Data Prediction
 Include your sample input and output here
